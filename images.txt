@@ -4,4 +4,5 @@
 # mysql:5.7
 # openjdk:8
 # centos:7
-apache/rocketmq:5.3.2
+# apache/rocketmq:5.3.2
+apacherocketmq/rocketmq-dashboard:latest
